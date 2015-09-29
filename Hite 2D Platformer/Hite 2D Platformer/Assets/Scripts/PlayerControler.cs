@@ -3,9 +3,20 @@ using System.Collections;
 
 public class PlayerControler : MonoBehaviour 
 {
-
+	//Player Movement
 	public float moveSpeed;
 	public float jumpHeight;
+
+	//Ground Check
+	public Transform groundCheck;
+	public float groundCheckRadius;
+	public LayerMask whatIsGround;
+	private bool grounded;
+
+	void FixedUpdate ()
+	{
+		grounded = Physics2D.OverlapCircle (groundCheck.position, groundCheckRadius, whatIsGround);
+	}
 
 	void Update () 
 	{
@@ -22,7 +33,7 @@ public class PlayerControler : MonoBehaviour
 			Debug.Log("I moved left");
 		}
 		// Jump
-		if(Input.GetKeyDown (KeyCode.Space))
+		if(Input.GetKeyDown (KeyCode.Space)&& grounded)
 		{		
 			GetComponent<Rigidbody2D>().velocity = new Vector2(GetComponent<Rigidbody2D>().velocity.x, jumpHeight);
 			Debug.Log("I jumped");
