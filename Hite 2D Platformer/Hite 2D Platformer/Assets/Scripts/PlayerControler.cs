@@ -13,6 +13,9 @@ public class PlayerControler : MonoBehaviour
 	public LayerMask whatIsGround;
 	private bool grounded;
 
+	//Double Jump
+	private bool doubleJumped;
+
 	void FixedUpdate ()
 	{
 		grounded = Physics2D.OverlapCircle (groundCheck.position, groundCheckRadius, whatIsGround);
@@ -37,6 +40,17 @@ public class PlayerControler : MonoBehaviour
 		{		
 			GetComponent<Rigidbody2D>().velocity = new Vector2(GetComponent<Rigidbody2D>().velocity.x, jumpHeight);
 			Debug.Log("I jumped");
+		}
+	
+		//Double Jump
+		if (grounded)
+			doubleJumped = false;
+
+		if (Input.GetKeyDown (KeyCode.Space) && !doubleJumped && !grounded) 
+		{
+			GetComponent<Rigidbody2D> ().velocity = new Vector2 (GetComponent<Rigidbody2D> ().velocity.x, jumpHeight);
+			doubleJumped = true;
+			Debug.Log ("I jumped twice");
 		}
 	}
 }
