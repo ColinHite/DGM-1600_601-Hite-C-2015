@@ -4,7 +4,7 @@ using System.Collections;
 public class Enumerations : MonoBehaviour {
 
 
-    enum Candy {Twix, Milkyway, Snickers, Mnms};
+ /*   enum Candy {Twix, Milkyway, Snickers, Mnms};
     
 	void Start () 
     {
@@ -24,5 +24,5 @@ public class Enumerations : MonoBehaviour {
          can = Candy.Mnms;   
     else if  (can == Candy.Mnms)
          can = Candy.Milkyway;  
-    }
+    }*/
 }

@@ -47,10 +47,21 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\CheckPoint.cs" />
+     <Compile Include="Assets\Scripts\CoinPickUp.cs" />
+     <Compile Include="Assets\Scripts\Enumerations.cs" />
      <Compile Include="Assets\Scripts\KillPlayer.cs" />
      <Compile Include="Assets\Scripts\LevelManager.cs" />
      <Compile Include="Assets\Scripts\NonUsedScripts\WhileLoop.cs" />
      <Compile Include="Assets\Scripts\PlayerControler.cs" />
+     <Compile Include="Assets\Scripts\ScoreManager.cs" />
+     <None Include="Assets\Game Sprites\Enemies\enemies_spritesheet.txt" />
+     <None Include="Assets\Game Sprites\Items\items_spritesheet.xml" />
+     <None Include="Assets\Game Sprites\license.txt" />
+     <None Include="Assets\Game Sprites\HUD\hud_spritesheet.xml" />
+     <None Include="Assets\Game Sprites\Tiles\tiles_spritesheet.xml" />
+     <None Include="Assets\Game Sprites\Player\p3_spritesheet.txt" />
+     <None Include="Assets\Game Sprites\Player\p1_spritesheet.txt" />
+     <None Include="Assets\Game Sprites\Player\p2_spritesheet.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
