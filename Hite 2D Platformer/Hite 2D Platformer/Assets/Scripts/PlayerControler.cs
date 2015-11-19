@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class PlayerControler : MonoBehaviour 
@@ -6,6 +6,8 @@ public class PlayerControler : MonoBehaviour
 	//Player Movement
 	public float moveSpeed;
 	public float jumpHeight;
+    
+    public float moveVelocity;
 
 	//Ground Check
 	public Transform groundCheck;
@@ -32,18 +34,27 @@ public class PlayerControler : MonoBehaviour
 
 	void Update () 
 	{
-		//Move Right
+		// Non-Stick
+        moveVelocity = 0f;
+        
+        //Move Right
 		if(Input.GetKey (KeyCode.D))
 		{		
-			GetComponent<Rigidbody2D>().velocity = new Vector2(moveSpeed, GetComponent<Rigidbody2D> ().velocity.y);
-			Debug.Log("I moved right");
+			//GetComponent<Rigidbody2D>().velocity = new Vector2(moveSpeed, GetComponent<Rigidbody2D> ().velocity.y);
+			moveVelocity = moveSpeed;
+            Debug.Log("I moved right");
 		}
 		//Move Left
 		if(Input.GetKey (KeyCode.A))
 		{		
-			GetComponent<Rigidbody2D>().velocity = new Vector2(-moveSpeed, GetComponent<Rigidbody2D> ().velocity.y);
-			Debug.Log("I moved left");
+			//GetComponent<Rigidbody2D>().velocity = new Vector2(-moveSpeed, GetComponent<Rigidbody2D> ().velocity.y);
+			moveVelocity = -moveSpeed; 
+            Debug.Log("I moved left");
 		}
+        
+        // Non-Stick Player
+        GetComponent<Rigidbody2D>().velocity = new Vector2(moveVelocity, GetComponent<Rigidbody2D> ().velocity.y);
+        
 		// Jump
 		if(Input.GetKeyDown (KeyCode.Space)&& grounded)
 		{		
