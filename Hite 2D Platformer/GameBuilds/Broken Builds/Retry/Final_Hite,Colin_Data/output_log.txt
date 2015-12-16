@@ -1,0 +1,1099 @@
+Initialize engine version: 5.1.3f1 (b0a23b31c3d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6320M  (ID=0x9806)
+    Vendor:   ATI
+    VRAM:     367 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Github\DGM- 1600\Hite 2D Platformer\GameBuilds\Retry\Final_Hite,Colin_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Github\DGM- 1600\Hite 2D Platformer\GameBuilds\Retry\Final_Hite,Colin_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Github\DGM- 1600\Hite 2D Platformer\GameBuilds\Retry\Final_Hite,Colin_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Github\DGM- 1600\Hite 2D Platformer\GameBuilds\Retry\Final_Hite,Colin_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Github\DGM- 1600\Hite 2D Platformer\GameBuilds\Retry\Final_Hite,Colin_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Github\DGM- 1600\Hite 2D Platformer\GameBuilds\Retry\Final_Hite,Colin_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Github\DGM- 1600\Hite 2D Platformer\GameBuilds\Retry\Final_Hite,Colin_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Github\DGM- 1600\Hite 2D Platformer\GameBuilds\Retry\Final_Hite,Colin_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Github\DGM- 1600\Hite 2D Platformer\GameBuilds\Retry\Final_Hite,Colin_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Github\DGM- 1600\Hite 2D Platformer\GameBuilds\Retry\Final_Hite,Colin_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Github\DGM- 1600\Hite 2D Platformer\GameBuilds\Retry\Final_Hite,Colin_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.277 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Github\DGM- 1600\Hite 2D Platformer\GameBuilds\Retry\Final_Hite,Colin_Data\Managed\System.dll (this message is harmless)
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 20.350769 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 3.328463 ms (FindLiveObjects: 0.963339 ms CreateObjectMapping: 0.340806 ms MarkObjects: 1.972699 ms  DeleteObjects: 0.049752 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.343579 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 3.041763 ms (FindLiveObjects: 0.858236 ms CreateObjectMapping: 0.125625 ms MarkObjects: 2.006282 ms  DeleteObjects: 0.047887 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.956688 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 3.511927 ms (FindLiveObjects: 1.191580 ms CreateObjectMapping: 0.126869 ms MarkObjects: 2.140615 ms  DeleteObjects: 0.049752 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.827952 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 3.138781 ms (FindLiveObjects: 0.867564 ms CreateObjectMapping: 0.126869 ms MarkObjects: 2.092106 ms  DeleteObjects: 0.049130 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.527570 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 2.964024 ms (FindLiveObjects: 0.853882 ms CreateObjectMapping: 0.127491 ms MarkObjects: 1.924812 ms  DeleteObjects: 0.054106 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.515722 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 3.046116 ms (FindLiveObjects: 0.870052 ms CreateObjectMapping: 0.124382 ms MarkObjects: 1.994466 ms  DeleteObjects: 0.054106 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.727793 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 3.081565 ms (FindLiveObjects: 0.850151 ms CreateObjectMapping: 0.121272 ms MarkObjects: 2.034268 ms  DeleteObjects: 0.072141 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.493365 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 3.200972 ms (FindLiveObjects: 0.860723 ms CreateObjectMapping: 0.146770 ms MarkObjects: 2.141237 ms  DeleteObjects: 0.049130 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.910045 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 3.414287 ms (FindLiveObjects: 1.188470 ms CreateObjectMapping: 0.145527 ms MarkObjects: 2.028049 ms  DeleteObjects: 0.049752 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.168137 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 3.113282 ms (FindLiveObjects: 0.861345 ms CreateObjectMapping: 0.120028 ms MarkObjects: 2.080911 ms  DeleteObjects: 0.048509 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.782553 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 3.159304 ms (FindLiveObjects: 0.815946 ms CreateObjectMapping: 0.129357 ms MarkObjects: 2.161138 ms  DeleteObjects: 0.050374 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.046211 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 3.079077 ms (FindLiveObjects: 0.849529 ms CreateObjectMapping: 0.116919 ms MarkObjects: 2.059766 ms  DeleteObjects: 0.049752 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.765139 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 3.140024 ms (FindLiveObjects: 0.976399 ms CreateObjectMapping: 0.126869 ms MarkObjects: 1.982028 ms  DeleteObjects: 0.052240 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.266367 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 3.120123 ms (FindLiveObjects: 0.869430 ms CreateObjectMapping: 0.179732 ms MarkObjects: 2.021208 ms  DeleteObjects: 0.047265 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.400078 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 3.084053 ms (FindLiveObjects: 0.874405 ms CreateObjectMapping: 0.146148 ms MarkObjects: 2.012501 ms  DeleteObjects: 0.048509 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.628319 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 3.358937 ms (FindLiveObjects: 0.865699 ms CreateObjectMapping: 0.131223 ms MarkObjects: 2.310396 ms  DeleteObjects: 0.048509 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.785631 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 3.230201 ms (FindLiveObjects: 0.838335 ms CreateObjectMapping: 0.151746 ms MarkObjects: 2.189124 ms  DeleteObjects: 0.049752 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.566750 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 3.600238 ms (FindLiveObjects: 0.881246 ms CreateObjectMapping: 0.124382 ms MarkObjects: 2.538637 ms  DeleteObjects: 0.051618 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.109868 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 3.176095 ms (FindLiveObjects: 0.914208 ms CreateObjectMapping: 0.123138 ms MarkObjects: 2.087130 ms  DeleteObjects: 0.047887 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.431764 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 3.180449 ms (FindLiveObjects: 0.872540 ms CreateObjectMapping: 0.126247 ms MarkObjects: 2.128176 ms  DeleteObjects: 0.050996 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.505803 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 4.099632 ms (FindLiveObjects: 0.854504 ms CreateObjectMapping: 0.124382 ms MarkObjects: 3.067883 ms  DeleteObjects: 0.049752 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.195470 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 3.090272 ms (FindLiveObjects: 0.851395 ms CreateObjectMapping: 0.126869 ms MarkObjects: 2.061010 ms  DeleteObjects: 0.047887 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.565506 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 3.056688 ms (FindLiveObjects: 0.860723 ms CreateObjectMapping: 0.125625 ms MarkObjects: 2.018720 ms  DeleteObjects: 0.049130 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.635128 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 3.215276 ms (FindLiveObjects: 0.873783 ms CreateObjectMapping: 0.126247 ms MarkObjects: 2.163625 ms  DeleteObjects: 0.048509 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.818624 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 3.171742 ms (FindLiveObjects: 0.858858 ms CreateObjectMapping: 0.201498 ms MarkObjects: 2.060388 ms  DeleteObjects: 0.046643 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.645079 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 3.126342 ms (FindLiveObjects: 0.851395 ms CreateObjectMapping: 0.120028 ms MarkObjects: 2.102056 ms  DeleteObjects: 0.049130 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+The file 'D:/Github/DGM- 1600/Hite 2D Platformer/GameBuilds/Retry/Final_Hite,Colin_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 241)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.412516 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4638.
+Total: 3.118258 ms (FindLiveObjects: 0.843310 ms CreateObjectMapping: 0.122516 ms MarkObjects: 2.103300 ms  DeleteObjects: 0.046643 ms)
+
+Activated Checkpoint(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+I moved left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
